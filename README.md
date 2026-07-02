@@ -41,7 +41,16 @@
 
 ---
 
-## 🛠️ Как запустить проект
+## Демонстрация дашборда
+<img width="1320" height="746" alt="image" src="https://github.com/user-attachments/assets/90c213c7-f9d3-44d9-929b-014627a111a6" />
+
+<img width="1323" height="749" alt="image" src="https://github.com/user-attachments/assets/d907aa08-4d6c-409b-bb52-da67273246b8" />
+
+<img width="1312" height="750" alt="image" src="https://github.com/user-attachments/assets/0c16719b-f795-4763-a793-0f1a5e49d3bc" />
+
+---
+
+## Как запустить проект
 
 ### 1. Jupyter Notebook
 ```bash
